@@ -1,1 +1,1 @@
-# lab_digitrec_aws
+digitrec tutorial code heterocl
